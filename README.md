@@ -1,0 +1,2 @@
+# NextAuthExample-Prisma-tRPCTanstack
+ This repo is a starting point for those who want to create a secure and easily extensible authentication infrastructure for their Next.js projects. It is full of examples for role-based access, session control, database connectivity, and more. NextAuth provides a secure and scalable auth system with Prisma, MySQL, TanStack Query, JWT, and customized middleware structures.
